@@ -1,4 +1,4 @@
-# two_interacting_logistic_map_systems
+# Two Interacting Logistic Map Systems
 
 The log2inter.py calculates the dynamical behaviors of two interacting logistic map systems. 
 
