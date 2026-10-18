@@ -1,0 +1,18 @@
+{
+  "source_commit": "3366589902cf4a312f73dd8d7a0a1df2643149c0",
+  "source_blob": "392986eca08c5b4ee25574ba2b30f65eb82f503c",
+  "rx": 3.8318741,
+  "ry": 3.7389149,
+  "seed": 20261018,
+  "burn": 12000,
+  "measure": 8192,
+  "tail": 1024,
+  "period_max": 64,
+  "period_tol": 1e-08,
+  "long_burn": 50000,
+  "long_measure": 65536,
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "matplotlib": "3.10.8"
+}
