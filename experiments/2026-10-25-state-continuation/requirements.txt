@@ -1,0 +1,3 @@
+numpy>=1.26
+matplotlib>=3.8
+# Optional for speed: numba>=0.60
