@@ -1,0 +1,59 @@
+{
+  "source_trace_bitwise_equal": true,
+  "jacobian_error": 9.764189456973327e-11,
+  "DG_error": 2.635283102847552e-10,
+  "max_branch_residual": 9.992007221626409e-16,
+  "branch_points": 2398,
+  "half_step_fold_k": 0.14532392381552373,
+  "half_step_fold_difference": 0.0,
+  "left_flip": {
+    "k": 0.10207697070688165,
+    "ax": 0.8882697247736512,
+    "ay": 0.465546456163656,
+    "bx": 0.4364418590277349,
+    "by": 0.8741491552913851,
+    "gap": 0.6091835404859322,
+    "residual": 2.220446049250313e-16,
+    "mu1_real": -1.0000000000000004,
+    "mu1_imag": 0.0,
+    "mu2_real": -0.661721321392473,
+    "mu2_imag": 0.0,
+    "rho": 1.0000000000000004
+  },
+  "physical_p1_counts": [
+    2
+  ],
+  "stable_p1_counts": [
+    0
+  ],
+  "ghost_exit_times": [
+    {
+      "delta_k": 1e-05,
+      "k": 0.14533392381552374,
+      "first_exit_steps": 318,
+      "radius": 0.02,
+      "steps_times_sqrt_delta": 1.0056042959335447
+    },
+    {
+      "delta_k": 1e-06,
+      "k": 0.14532492381552373,
+      "first_exit_steps": 1028,
+      "radius": 0.02,
+      "steps_times_sqrt_delta": 1.028
+    },
+    {
+      "delta_k": 1e-07,
+      "k": 0.14532402381552373,
+      "first_exit_steps": 3266,
+      "radius": 0.02,
+      "steps_times_sqrt_delta": 1.0327998838109926
+    },
+    {
+      "delta_k": 1e-08,
+      "k": 0.14532393381552372,
+      "first_exit_steps": 10338,
+      "radius": 0.02,
+      "steps_times_sqrt_delta": 1.0338
+    }
+  ]
+}

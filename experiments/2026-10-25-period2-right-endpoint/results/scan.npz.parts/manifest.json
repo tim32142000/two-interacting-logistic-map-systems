@@ -1,0 +1,47 @@
+{
+  "output": "scan.npz",
+  "size": 33229726,
+  "sha256": "f8c9f40fdc014db0f0dc1cd98c9b139c8e85508bdb60bbc16ea14f2a6c082af5",
+  "parts": [
+    {
+      "name": "part-000.bin",
+      "size": 4194304,
+      "sha256": "59fa2fd1f4a1d5b3868f414f8dd0d359fff06ef42d87c2f2efc1f7b4e8a35cae"
+    },
+    {
+      "name": "part-001.bin",
+      "size": 4194304,
+      "sha256": "227ea6703bbcb3076b21b0a4e73088ccfea4a409c3fc4507c13fd732723ffdf6"
+    },
+    {
+      "name": "part-002.bin",
+      "size": 4194304,
+      "sha256": "9740d1b771057c2443d915302857cae1141b5ede049ab09a1175581787e6fc69"
+    },
+    {
+      "name": "part-003.bin",
+      "size": 4194304,
+      "sha256": "5017cf657348abdd112fb19d77f1c468844d12c9cdba425b93c5befd4c1221ca"
+    },
+    {
+      "name": "part-004.bin",
+      "size": 4194304,
+      "sha256": "488ac36c2529b67991055e5d7324657096ee0c9d1278934e2246bc80c10514d3"
+    },
+    {
+      "name": "part-005.bin",
+      "size": 4194304,
+      "sha256": "dfe42f2359c8d7e3fc132b350b2df5409210a94d94b27bfbea36f6ba635084e9"
+    },
+    {
+      "name": "part-006.bin",
+      "size": 4194304,
+      "sha256": "c09125ad945258946abc9bb9564ae09548c7ce2345845b0ce8f7469a200ff7eb"
+    },
+    {
+      "name": "part-007.bin",
+      "size": 3869598,
+      "sha256": "632d29ae90bc1a5c6e29d1f2bf0311861fd4aeac93ea365d0c46d0165615a20f"
+    }
+  ]
+}
